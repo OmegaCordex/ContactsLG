@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "543608209829",
+    "firebase_url": "https://contactslg.firebaseio.com",
+    "project_id": "contactslg",
+    "storage_bucket": "contactslg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543608209829:android:ef9f67a6435b8f3b03284c",
+        "android_client_info": {
+          "package_name": "com.example.contactslg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543608209829-r31ri5o48g5iondm5igrq696cfsbg2vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW9L_l86fRnjIq6nV6RsxZ-CrNv2T-q8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543608209829-r31ri5o48g5iondm5igrq696cfsbg2vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

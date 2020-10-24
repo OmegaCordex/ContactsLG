@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ContactsLG</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="add_cu">Add CU</string>
+    <string name="cu_name">CU Name</string>
+    <string name="save">Save</string>
+    <string name="chv_name">CHV Name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="add_details">Add Details</string>
+    <string name="chv_phone">Phone number</string>
+
+
+</resources>
